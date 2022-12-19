@@ -1,1 +1,1 @@
-# vscode_official_docs_translation
+# VSCode 没有中文官方文档，我最近正在学习英语和vscode的相关使用，所以顺便在这里提供vscode的官方文档翻译
